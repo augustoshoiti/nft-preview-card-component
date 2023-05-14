@@ -21,9 +21,10 @@ body {
     width: 375px;
     border-radius: 18px;
     padding: 26px;
-    margin: 18px;
+    margin: 22px 22px 30px 22px;
     display: flex;
     flex-direction: column;
+    box-shadow: 0 12px 10px 10px hsla(217, 51%, 8%, 0.603);
 }
 
 .picture {
